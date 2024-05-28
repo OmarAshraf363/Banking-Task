@@ -1,0 +1,14 @@
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\task01.exe
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\task01.deps.json
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\task01.runtimeconfig.json
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\task01.dll
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\task01.pdb
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\task01.AssemblyInfoInputs.cache
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\task01.AssemblyInfo.cs
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\task01.csproj.CoreCompileInputs.cache
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\task01.dll
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\refint\task01.dll
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\task01.pdb
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\task01.genruntimeconfig.cache
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\ref\task01.dll

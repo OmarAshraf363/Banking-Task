@@ -1,0 +1,14 @@
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\Banking Program.exe
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\Banking Program.deps.json
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\Banking Program.runtimeconfig.json
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\Banking Program.dll
+G:\C#_Tasks\Task_04\task01\bin\Debug\net8.0\Banking Program.pdb
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\Banking Program.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\Banking Program.AssemblyInfoInputs.cache
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\Banking Program.AssemblyInfo.cs
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\Banking Program.csproj.CoreCompileInputs.cache
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\Banking Program.dll
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\refint\Banking Program.dll
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\Banking Program.pdb
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\Banking Program.genruntimeconfig.cache
+G:\C#_Tasks\Task_04\task01\obj\Debug\net8.0\ref\Banking Program.dll
